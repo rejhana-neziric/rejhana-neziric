@@ -2,9 +2,7 @@
 
 I'm a final-year Software Engineering student at Faculty of Information Technology in Mostar.
 
-- 🔭 I'm currently working on a project for my AI coursework.
-- 🌱 I’m currently learning Flutter.
-- ✉️ For inquiries, contact me at [n.rejhana@gmail.com](mailto:n.rejhana@gmail.com)
+For inquiries, contact me at [n.rejhana@gmail.com](mailto:n.rejhana@gmail.com)
 
 ---
 
