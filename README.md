@@ -2,7 +2,7 @@
 
 I'm a final-year Software Engineering student at Faculty of Information Technology in Mostar.
 
-For inquiries, contact me at [n.rejhana@gmail.com](mailto:n.rejhana@gmail.com)
+For inquiries, contact me at [rejhana.neziric@protonmail.com](mailto:rejhana.neziric@protonmail.com)
 
 ---
 
